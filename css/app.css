@@ -1,0 +1,18 @@
+/* app css stylesheet */
+
+.todoInput input {
+  border: none;
+}
+
+.container {
+  width: 400px;
+}
+
+.title {
+  background: #f5f5f5;
+}
+
+.done {
+	text-decoration: line-through;
+	color:#ccc;
+}
